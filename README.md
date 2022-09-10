@@ -17,7 +17,7 @@ I am Vrushali Pandit, a junior at IIT-J studying Bioengineering. I enjoy pretty 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alivejojo&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alivejojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

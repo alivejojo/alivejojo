@@ -1,5 +1,5 @@
-#### Hi there 👋
-I am Vrushali Pandit, a junior at IIT-J studying Bioengineering. I like coding and biology.
+### Hi there 👋
+I am Vrushali Pandit, a junior at IIT-J studying Bioengineering. I enjoy pretty mcuh anything which involves coding and biology.
 
 - 🧬 Fields I'm interested in - **computational biology** and **bioinformatics**
 - 🌱 I have experience in - ML/DL applied in biology, analysing and developing algorithms for single cell transcriptomics and spatial transcriptomics data.
